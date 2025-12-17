@@ -37,6 +37,8 @@
   },
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^24.0.0",
-    "cypress": "^15.8.0"
+    "chrome-launcher": "^1.2.1",
+    "cypress": "^15.8.0",
+    "lighthouse": "^12.8.2"
   }
 }
