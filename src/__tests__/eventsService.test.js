@@ -1,3 +1,4 @@
+// src/__tests__/eventsService.test.js
 import { getUpcomingEvents } from "../services/eventsService";
 
 describe("Вимоги до визначення майбутніх заходів", () => {
