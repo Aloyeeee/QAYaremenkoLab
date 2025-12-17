@@ -36,9 +36,14 @@
     ]
   },
   "devDependencies": {
+    "@babel/eslint-parser": "^7.28.5",
     "@badeball/cypress-cucumber-preprocessor": "^24.0.0",
     "chrome-launcher": "^1.2.1",
     "cypress": "^15.8.0",
+    "eslint": "^8.57.1",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-security": "^3.0.1",
+    "globals": "^16.5.0",
     "lighthouse": "^12.8.2"
   }
 }
